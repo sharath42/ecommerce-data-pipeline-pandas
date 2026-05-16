@@ -1,0 +1,6 @@
+loan_id,customer_id,loan_amount,interest_rate,loan_years,loan_type,application_date,status
+L001,101,500000,10,5,Home Loan,12-01-2024,Approved
+L002,102,-200000,12,3,Car Loan,10-02-2024,Rejected
+L003,103,300000,11,4,Personal Loan,14-03-2024,Approved
+L004,104,1000000,9,10,Home Loan,25-01-2024,Approved
+L005,105,700000,13,7,Business Loan,15-02-2024,Pending

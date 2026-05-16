@@ -1,0 +1,4 @@
+customer_id,customer_name,age,email,city,state,loan_id,loan_amount,interest_rate,loan_years,loan_type,application_date,status,application_year,monthly_interest_rate,loan_months,emi,loan_ref_id
+101,Rahul Sharma,28,rahul@gmail.com,MUMBAI,MH,L001,500000,10,5,HOME LOAN,2024-12-01,Approved,2024.0,0.8333333333333334,60,10623.522355634166,Loan_2024.0_L001
+104,Sneha Reddy,42,sneha@gmail.com,HYDERABAD,TG,L004,1000000,9,10,HOME LOAN,,Approved,,0.75,120,12667.577375024885,
+105,Arjun Patel,29,arjun@gmail.com,AHMEDABAD,GJ,L005,700000,13,7,BUSINESS LOAN,,Pending,,1.0833333333333333,84,12734.374344143025,

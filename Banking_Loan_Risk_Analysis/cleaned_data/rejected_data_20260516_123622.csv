@@ -1,0 +1,2 @@
+customer_id,customer_name,age,email,city,state,loan_id,loan_amount,interest_rate,loan_years,loan_type,application_date,status
+102,Priya Verma,17,priya@gmail.com,Pune,MH,L002,-200000,12,3,Car Loan,10-02-2024,Rejected
